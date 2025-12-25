@@ -94,6 +94,7 @@ Hello! I'm Waqar Ali, a passionate Data Scientist currently studying at the Univ
 
 | Project Title | Description | Link |
 |---------------|-------------|------|
+| **Customer Churn Prediction Using Machine Learning** | End-to-end customer churn prediction project using Python. | [View Project](https://github.com/waqi786/Customer-Churn-Prediction) |
 | **Global Electric Vehicles Sales Analysis 2010-2024** | Analyzing worldwide electric vehicle sales trends, growth, and market dynamics from 2010 to 2024. | [View Project](https://github.com/waqi786/Global-Electric-Vehicles-Sales-Analysis-2010-2024) |
 | **Remote Work Mental Health EDA** | An exploratory data analysis examining the impact of remote work on mental health, focusing on trends, challenges, and coping mechanisms during the pandemic. | [View Project](https://github.com/waqi786/Remote-Work-Mental-Health-EDA) |
 | **USA Rainfall Prediction** | A predictive analysis project aimed at forecasting rainfall patterns in the USA using historical weather data and machine learning algorithms. | [View Project](https://github.com/waqi786/USA-Rainfall-Prediction) |
